@@ -1,2 +1,2 @@
 # DigitizeShop
-Degitize a local shop
+Digitize a local shop
